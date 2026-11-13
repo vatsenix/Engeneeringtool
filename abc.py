@@ -6,3 +6,4 @@ for i in a:
 
 
 print("Even Number :" ,b)
+print("ODD_NUMBER")
